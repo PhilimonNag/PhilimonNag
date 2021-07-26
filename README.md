@@ -3,11 +3,11 @@
 - 🌱 I’m currently learning Java and Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-       Email Address - Philimonnag@gmail.com 
-       Contact No    - +91-7751996767
-                       +91-8917350925
-       LinkedIn      - Philimon Nag
-       Postal Address- At/Po-Diptipur,Dist-Bargarh
+-          Email Address - Philimonnag@gmail.com 
+-          Contact No    - +91-7751996767
+-                          +91-8917350925
+-          LinkedIn      - Philimon Nag
+-          Postal Address- At/Po-Diptipur,Dist-Bargarh
                        State-Odisha,Pin-768035
        
 
